@@ -1,6 +1,6 @@
 # breakingpoint.nvim
 
-> [!WARNING] Warning
+> [!WARNING]
 > Very much WIP, anything could change at any time, no stability expected!
 
 Simple utilities to make setting and editing conditional breakpoints better.
